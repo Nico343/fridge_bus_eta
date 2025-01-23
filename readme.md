@@ -1,16 +1,12 @@
-# Bus ETA Report for Hall 8 lab
+# Bus ETA Report for Fridge
 
-This was made because it was annoying to take out phone and check how long until bus arrives and then run up when it was too late. With this, I can be constantly reminded when to leave the lab.
+This was made because it was annoying to take out phone and check how long until bus arrives and then run down when it was too late. With this, the users can be constantly reminded when to leave home.
 
-First project by side project and yapping sub team.
+First (Useful to public) project by yours truly.
 
-Made by marco lk network and Nicholas did some shit to it
+Made by a human who had a bunch of ttgo e-ink stuff collecting dust and wanted a break from working on his charger.
 
-**Screenshot**
-![Screenshot](screenshot.jpg)
-Meant to be used on a 1080p monitor, but the screenshot was taken with a 1440p monitor.
-
-Clock function is here.
+Clock function is **not** here for a reason. Don't bother asking me.
 
 Citybus shit
 <https://www.citybus.com.hk/datagovhk/bus_eta_api_specifications.pdf>
@@ -22,3 +18,6 @@ KMB shit
 
 GMB shit
 <https://data.etagmb.gov.hk/static/GMB_ETA_API_Specification.pdf>
+
+GxEPD2 Shit
+<https://github.com/ZinggJM/GxEPD2>
